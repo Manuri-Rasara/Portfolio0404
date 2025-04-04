@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio0404/static/css/main.80e96a71.css",
+    "main.css": "/Portfolio0404/static/css/main.ac9c506f.css",
     "main.js": "/Portfolio0404/static/js/main.fa21e58b.js",
     "static/js/453.ed3810f9.chunk.js": "/Portfolio0404/static/js/453.ed3810f9.chunk.js",
     "static/media/newcard5.png": "/Portfolio0404/static/media/newcard5.302399c8f00bb57aa8c4.png",
@@ -11,12 +11,12 @@
     "static/media/newcard3.png": "/Portfolio0404/static/media/newcard3.06e3ce5f3376079fae12.png",
     "static/media/MarvelRegular-Dj83.ttf": "/Portfolio0404/static/media/MarvelRegular-Dj83.329acb512a429ca2049d.ttf",
     "index.html": "/Portfolio0404/index.html",
-    "main.80e96a71.css.map": "/Portfolio0404/static/css/main.80e96a71.css.map",
+    "main.ac9c506f.css.map": "/Portfolio0404/static/css/main.ac9c506f.css.map",
     "main.fa21e58b.js.map": "/Portfolio0404/static/js/main.fa21e58b.js.map",
     "453.ed3810f9.chunk.js.map": "/Portfolio0404/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.80e96a71.css",
+    "static/css/main.ac9c506f.css",
     "static/js/main.fa21e58b.js"
   ]
 }
