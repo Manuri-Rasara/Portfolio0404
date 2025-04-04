@@ -1,0 +1,53 @@
+/* Contact Section Background */
+.backcontact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 300px;
+    background: #123458;
+    color: white;
+    text-align: center;
+    border-radius: 12px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    margin: 20px;
+  }
+  
+  /* Text Styling */
+  .backcontent {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 15px;
+    background: transparent;
+  }
+  
+  /* Button Container */
+  .backbtn {
+    margin-top: 10px;
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* Button Styling */
+  .backbtn button {
+    
+    background-color: transparent;
+    color: #ffffff;;
+    border: none;
+    padding: 120%;
+    font-size: 1rem;
+    font-weight: bold;
+   border: 2px solid #ffffff;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  /* Hover Effect */
+  .backbtn button:hover {
+    background: #a01b1b;
+    color: white;
+    transform: scale(1.1);
+  }
+  

@@ -1,0 +1,58 @@
+.tech-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
+    gap: 10px;
+    width: 100%;
+    max-width: 100%;
+    margin:5% auto;
+    padding: 20px;
+    border: 2px solid black;
+    text-align: center;
+   
+  }
+  
+  .icon {
+    font-size: 40px;
+    transition: transform 0.3s ease, color 0.3s ease;
+  }
+  
+  .icon:hover {
+    transform: scale(1.2);
+  }
+  
+  .react { color: #61DAFB; }
+  .html { color: #E34F26; }
+  .css { color: #1572B6; }
+  .js { color: #F7DF1E; }
+  .node { color: #339933; }
+  .python { color: #3776AB; }
+  .java { color: #007396; }
+  .github { color: #181717; }
+  .ts { color: #3178C6; }
+  .cpp { color: #00599C; }
+  .mongodb { color: #47A248; }
+  .docker { color: #2496ED; }
+  .ai { color: #7e230a; }
+  .ps { color: #0e2798; }
+  .xd { color: #7e0a5d; }
+  .figma { color: #0a7e4e; }
+  
+
+  @media (max-width: 1024px) {
+    .tech-grid {
+      grid-template-columns: repeat(auto-fit, minmax(60px, 1fr));
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .tech-grid {
+      grid-template-columns: repeat(auto-fit, minmax(50px, 1fr));
+      gap: 8px;
+    }
+  
+    .icon {
+      font-size: 30px;
+    }
+  }
+  
+  
