@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/Portfolio0404/static/css/main.ac9c506f.css",
-    "main.js": "/Portfolio0404/static/js/main.fa21e58b.js",
+    "main.css": "/Portfolio0404/static/css/main.b46d9356.css",
+    "main.js": "/Portfolio0404/static/js/main.86e63d05.js",
     "static/js/453.ed3810f9.chunk.js": "/Portfolio0404/static/js/453.ed3810f9.chunk.js",
     "static/media/newcard5.png": "/Portfolio0404/static/media/newcard5.302399c8f00bb57aa8c4.png",
+    "static/media/newcard7.png": "/Portfolio0404/static/media/newcard7.6d4ad57eb3f1265469fd.png",
     "static/media/newcard6.png": "/Portfolio0404/static/media/newcard6.d98ea1fc4c92e6bd345f.png",
     "static/media/newcard4.png": "/Portfolio0404/static/media/newcard4.5aa225290cb922e2481f.png",
     "static/media/newcard1.png": "/Portfolio0404/static/media/newcard1.44333187fb1098ac093a.png",
     "static/media/newcard2.png": "/Portfolio0404/static/media/newcard2.3439d340d89ab80b016f.png",
+    "static/media/newcard8.png": "/Portfolio0404/static/media/newcard8.cb22641e9ed031f3d11b.png",
     "static/media/newcard3.png": "/Portfolio0404/static/media/newcard3.06e3ce5f3376079fae12.png",
     "static/media/MarvelRegular-Dj83.ttf": "/Portfolio0404/static/media/MarvelRegular-Dj83.329acb512a429ca2049d.ttf",
     "index.html": "/Portfolio0404/index.html",
-    "main.ac9c506f.css.map": "/Portfolio0404/static/css/main.ac9c506f.css.map",
-    "main.fa21e58b.js.map": "/Portfolio0404/static/js/main.fa21e58b.js.map",
+    "main.b46d9356.css.map": "/Portfolio0404/static/css/main.b46d9356.css.map",
+    "main.86e63d05.js.map": "/Portfolio0404/static/js/main.86e63d05.js.map",
     "453.ed3810f9.chunk.js.map": "/Portfolio0404/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac9c506f.css",
-    "static/js/main.fa21e58b.js"
+    "static/css/main.b46d9356.css",
+    "static/js/main.86e63d05.js"
   ]
 }
